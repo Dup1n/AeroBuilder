@@ -5,7 +5,7 @@ Example about Aeronautical Company with Builder Pattern on Java/Netbeans
 
  | Class Diagram    | Sequence Diagram (only aeroComercial case)        | 
 :-------------------------:|:-------------------------:
-|  ![](src/diagramas/Colaboracion.jpeg) | ![](src/diagramas/diagramaClases.jpeg) |
+|  ![](diagramas/Colaboracion.jpeg) | ![](diagramas/diagramaClases.jpeg) |
 
 **Use:**
 * NetBeans IDE 12.0 
